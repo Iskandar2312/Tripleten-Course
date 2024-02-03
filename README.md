@@ -1,4 +1,19 @@
-# Tripleten Course
+# Data
+- `price`
+- `model_year`
+- `model`
+- `condition`
+- `cylinders`
+- `fuel` — gas, disel, dan lain-lain.
+- `odometer` — jarak tempuh kendaraan saat iklan ditayangkan  
+- `transmission`
+- `paint_color`
+- `is_4wd` — apakah kendaraan memiliki penggerak 4 roda (tipe Boolean)
+- `date_posted` — tanggal iklan ditayangkan
+- `days_listed` — jumlah hari iklan ditayangkan hingga dihapus
 
-Berikut adalah proyek yang saya selesaikan selama mengikuti kursus Data Science di Tripleten Indonesia. Materi kursus meliputi Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
+# Goal
+Mempelajari iklan kendaraan guna mencari info faktor apa saja yang memengaruhi harga mobil
+# Libraries
+pandas, matplotlib, numpy
