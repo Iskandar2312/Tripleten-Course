@@ -1,15 +1,4 @@
-# Data
+# Tripleten Course
 
-- `userID` — ID pengguna
-- `track` — judul lagu
-- `artist` — nama artis
-- `genre` — genre musik
-- `city` — kota asal pengguna
-- `time` — waktu saat lagu tersebut diputar
-- `day` — hari dalam seminggu
+Berikut adalah proyek yang saya selesaikan selama mengikuti kursus Data Science di Tripleten Indonesia. Materi kursus meliputi Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
-# Goal
-Membandingkan preferensi musik dari pendengar di kota Springfield dan Shelbyville
-
-# Libraries
-pandas
