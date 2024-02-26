@@ -8,6 +8,6 @@ Berikut adalah proyek yang saya selesaikan selama mengikuti kursus Data Science 
 | 2  |[Credit Score Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-2) | Mencari tahu apakah status pernikahan dan jumlah anak memengaruhi probabilitas dalam pelunasan pinjaman.        | pandas, nltk |
 | 3  |[Vehicle Price Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-3)| Mempelajari iklan kendaraan guna mencari info faktor apa saja yang memengaruhi harga mobil. | pandas, mathplotlib, numpy |
 | 4  |[Phone Plan Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-4)| Selecting the plan with the highest potential revenue for different target markets and conducting hypothesis testing. | pandas, matplotlib, scipy, numpy, nltk |
-
+| 17  |[Telecom Client Churn Model]([https://github.com/Iskandar2312/Tripleten-Course/blob/Project-5/Final%20Project%20Telecomunication.ipynb])| Training a model to forecast if a client is going to leave. | pandas, numpy, sklearn, catboost, lightgbm |
 
 
