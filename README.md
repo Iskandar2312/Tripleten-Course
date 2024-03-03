@@ -13,6 +13,7 @@ These are Data Science projects I completed when going through the Data Science 
 | 7  |[Telecom Plans ML Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-7)| Studying customer behavior and building a machine learning model that recommends phones plans. | pandas, sklearn |
 | 8  |[Bank Customers Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-8)| Creating a classification model to predict customer churn from an imbalanced dataset. | pandas, sklearn |
 | 9  |[Oil Well Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-9)| Analyzing data from several petroleum reservoir regions and oil wells to calculate the profitability and risk of loss of developing a new well in each region. | pandas, numpy, matplotlib, seaborn |
+| 10  |[Gold Extraction Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-10)| ABuilding a machine learning model that predicts the amount of gold recovered from the extraction process so as to optimize production. | pandas, matplotlib, numpy, sklearn |
 | 17  |[Telecom Client Churn Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Final-Project)| Training a model to forecast if a client is going to leave. | pandas, numpy, sklearn, catboost, lightgbm |
 
 
