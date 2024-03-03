@@ -1,6 +1,6 @@
 # Tripleten Course
 
-Berikut adalah proyek yang saya selesaikan selama mengikuti kursus Data Science di Tripleten Indonesia. Materi kursus meliputi Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, dan lainnya.
+These are Data Science projects I completed when going through the Data Science training course in TripleTen Indonesia. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
 | No  |Nama Project                  | Deskripsi Project                          | Libraries |
 |----|-----------------------------|------------------------------------------|------------|
@@ -12,6 +12,7 @@ Berikut adalah proyek yang saya selesaikan selama mengikuti kursus Data Science 
 | 6  |[Taxi Company Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-6)| Identifying the top taxi companies, neighborhoods with the most drop-offs, and conducting hypothesis testing. | pandas, matplotlib, scipy, numpy, nltk |
 | 7  |[Telecom Plans ML Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-7)| Studying customer behavior and building a machine learning model that recommends phones plans. | pandas, sklearn |
 | 8  |[Bank Customers Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-8)| Creating a classification model to predict customer churn from an imbalanced dataset. | pandas, sklearn |
+| 9  |[Oil Well Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-9)| Analyzing data from several petroleum reservoir regions and oil wells to calculate the profitability and risk of loss of developing a new well in each region. | pandas, numpy, matplotlib, seaborn |
 | 17  |[Telecom Client Churn Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Final-Project)| Training a model to forecast if a client is going to leave. | pandas, numpy, sklearn, catboost, lightgbm |
 
 
