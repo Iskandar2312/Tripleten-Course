@@ -19,6 +19,6 @@ These are Data Science projects I completed when going through the Data Science 
 | 13  |[Taxi Orders Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-13)| Using historical data on taxi orders at airports to create a model that predicts the amount of taxi orders for any given time frame. | pandas, numpy, matplotlib, sklearn, catboost, lightgbm, statsmodels |
 | 14  |[Movie Sentiment Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-14)| Training a model that classifies positive and negative reviews. | pandas, numpy, math, re, nltk, matplotlib, seaborn, tqdm |
 | 15  |[Supermarket Chain Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-15)| Training and evaluating a model to automatically detect the age of a customer at a checkout counter. | pandas, numpy, matplotlib, seaborn, tensorflow |
-| 17  |[Telecom Client Churn Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Final-Project)| Training a model to forecast if a client is going to leave. | pandas, numpy, sklearn, catboost, lightgbm |
+| 16  |[Telecom Client Churn Model](https://github.com/Iskandar2312/Tripleten-Course/tree/Final-Project)| Training a model to forecast if a client is going to leave. | pandas, numpy, sklearn, catboost, lightgbm |
 
 
