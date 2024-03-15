@@ -4,9 +4,9 @@ These are Data Science projects I completed when going through the Data Science 
 
 | No  |Nama Project                  | Deskripsi Project                          | Libraries |
 |----|-----------------------------|------------------------------------------|------------|
-| 1  | [Analysis Y-Music](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-1) | Membandingkan preferensi musik dari pendengar di kota Springfield dan Shelbyville. | pandas |
-| 2  |[Credit Score Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-2) | Mencari tahu apakah status pernikahan dan jumlah anak memengaruhi probabilitas dalam pelunasan pinjaman.        | pandas, nltk |
-| 3  |[Vehicle Price Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-3)| Mempelajari iklan kendaraan guna mencari info faktor apa saja yang memengaruhi harga mobil. | pandas, mathplotlib, numpy |
+| 1  | [Analysis Y-Music](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-1) | Comparing the musical preferences of listeners in the cities of Springfield and Shelbyville. | pandas |
+| 2  |[Credit Score Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-2) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan.        | pandas, nltk |
+| 3  |[Vehicle Price Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-3)| Studying vehicle ads to determine what factors influence vehicle price. | pandas, mathplotlib, numpy |
 | 4  |[Phone Plan Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-4)| Selecting the plan with the highest potential revenue for different target markets and conducting hypothesis testing. | pandas, matplotlib, scipy, numpy, nltk |
 | 5  |[Video Games Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-5)| Identifying patterns that determine a game's success, creating a user profile for each target market, and conducting hypothesis testing. | pandas, matplotlib, scipy, numpy, nltk |
 | 6  |[Taxi Company Analysis](https://github.com/Iskandar2312/Tripleten-Course/tree/Project-6)| Identifying the top taxi companies, neighborhoods with the most drop-offs, and conducting hypothesis testing. | pandas, matplotlib, scipy, numpy, nltk |
